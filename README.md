@@ -1,6 +1,10 @@
 # get_x_user
 
-A new Flutter project.
+A Flutter project to integrated open sourece api.
+
+1. Have a home page
+2. Has user page list data
+4. Using GetX architecture
 
 ## Getting Started
 
